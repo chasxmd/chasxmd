@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chasxmd or Chas Ihler
+- 👋 Hi, I’m @chasxmd or Chas Ihler this is my older github account with some odd bits. I don't plan to update anything here. 
 - 👀 I’m interested in 8-bit Microcontrollers. PIC 16/18 and ATTiny/Mega. I like using ASM and C. 
 - 🌱 I’m currently learning bridging to other things such as JSON in micros to Node Red. 
 - 💞️ I’m looking to collaborate on robotics.
